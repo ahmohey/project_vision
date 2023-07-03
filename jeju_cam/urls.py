@@ -1,5 +1,7 @@
 from django.urls import path
+
 from jeju_cam.views import UserView
+
 app_name = "jeju_cam"
 
 urlpatterns = [
